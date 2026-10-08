@@ -1,0 +1,1 @@
+.setXFrameOptionsMode(HtmlService.XFrameOptionsMode.ALLOWALL)
